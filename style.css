@@ -1,42 +1,32 @@
-body
-{
-    text-align: center;
-}
-
-h1 {
-    font-size: 40px;
-    font-family: sans-serif;
-    font-weight: 300;
-}
-
-.line {
-    height: 6px;
-    background-color: #000;
-    width: 70px;
-    margin: 8px auto;
-}
-#contact iframe
-{
-    width: 100%;
-}
-.contact_1 h3
-{
-    display: inline;
-}
-.contact_1 a
-{
-    text-shadow: none;
-}
 
 
-.my_nav_bar
+.book
 {
-    position:sticky;
-    top:0;
-    z-index:99999
+  cursor: pointer;
 }
 
-input
+.sport hr
 {
-    background: grey;
+  margin-bottom: 10px;
 }
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+
+
+
